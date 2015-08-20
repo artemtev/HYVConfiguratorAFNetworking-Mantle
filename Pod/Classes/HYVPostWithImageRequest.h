@@ -9,6 +9,4 @@
 #import "HYVBasicRequestWithImage.h"
 
 @interface HYVPostWithImageRequest : HYVBasicRequestWithImage
-
-
 @end

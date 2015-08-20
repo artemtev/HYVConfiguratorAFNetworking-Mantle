@@ -11,7 +11,7 @@
 @interface HYVBasicRequestWithImage : HYVBasicRequest
 
 @property (strong, nonatomic) NSString *objectParamKey;
-
+@property (strong, nonatomic) NSArray *imagesArray;
 @property (strong, nonatomic) UIImage *image;
 @property (strong, nonatomic) NSString *name;
 
