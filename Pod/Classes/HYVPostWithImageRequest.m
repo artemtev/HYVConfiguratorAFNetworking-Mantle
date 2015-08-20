@@ -42,6 +42,7 @@
                                       self.name,
                                       [[NSUUID UUID] UUIDString]]
                             mimeType:@"image/jpeg"];
+
 }
 
 @end
